@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://webtotally.netlify.com/* https://webtotally.com/:splat 301!
